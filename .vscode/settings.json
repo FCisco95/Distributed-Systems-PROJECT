@@ -1,0 +1,26 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "protobuf-c.h": "c",
+        "sdmessage.pb-c.h": "c",
+        "message-private.h": "c",
+        "tree.h": "c",
+        "data.h": "c",
+        "types.h": "c",
+        "socket.h": "c",
+        "netdb.h": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "in.h": "c",
+        "network_server.h": "c",
+        "tree_skel.h": "c",
+        "client_stub-private.h": "c",
+        "network_client.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "zookeeper.h": "c",
+        "tree_skel-private.h": "c",
+        "client_stub.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}

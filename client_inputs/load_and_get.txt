@@ -1,0 +1,25 @@
+put a a
+put b b
+put c c
+size
+height
+getkeys
+getvalues
+get a
+get c
+put a 1
+put b 2
+put c 3
+size
+height
+getkeys
+getvalues
+del b
+size
+height
+getkeys
+getvalues
+get a
+get c
+get b
+quit

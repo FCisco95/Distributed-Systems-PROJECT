@@ -1,0 +1,282 @@
+Erro no rtree_get: Success
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree size = 3
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree height = 2
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> a
+b
+c
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> a
+b
+c
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> data size = 1
+a
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> data size = 1
+c
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Comando put efectuado com sucesso!
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree size = 3
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree height = 2
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> a
+b
+c
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> 1
+2
+3
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> 
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree size = 2
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Tree height = 1
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> a
+c
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> 1
+3
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> data size = 1
+1
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> data size = 1
+3
+
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> Server reported error on: rtree_get 
+COMMANDS:
+    size
+    height
+    del <key>
+    get <key>
+    put <key> <data>
+    getkeys
+    getvalues
+    quit
+>>> 

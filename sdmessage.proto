@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+message data_t {
+    sint32 datasize = 1;
+    bytes data = 2;
+}
+
+message entry_t {
+    string key = 1;
+    data_t value = 2;
+}
+
+message message_t
+{
+        enum Opcode {
+                OP_BAD     	= 0;
+                OP_SIZE    	= 10;
+                OP_HEIGHT  	= 20;
+                OP_DEL     	= 30;
+                OP_GET     	= 40;
+                OP_PUT     	= 50;
+                OP_GETKEYS	= 60;
+                OP_GETVALUES	= 70;
+                OP_VERIFY       = 80;
+                OP_ERROR   	= 99;
+        }
+        Opcode opcode = 1;
+
+        enum C_type {
+                CT_BAD    	= 0;
+                CT_KEY    	= 10;
+                CT_VALUE  	= 20;
+                CT_ENTRY  	= 30;
+                CT_KEYS   	= 40;
+                CT_VALUES  	= 50;
+                CT_RESULT 	= 60;
+                CT_NONE   	= 70;
+        }
+        C_type c_type = 2;
+
+        oneof message_data {
+                sint32 size = 3;
+                sint32 height = 4;
+                string key = 5;
+                entry_t entry = 6;
+                data_t value = 7;
+                sint32 op_n = 10;
+        }
+        
+        repeated string keys = 8;
+        repeated data_t values = 9;
+};

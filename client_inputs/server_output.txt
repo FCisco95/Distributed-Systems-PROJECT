@@ -1,0 +1,84 @@
+BEGIN SERVER MAIN LOOP
+begin read from 
+Put: a
+Tree size: 1
+begin write
+begin read from 
+Put: b
+Tree size: 2
+begin write
+begin read from 
+Put: c
+Tree size: 3
+begin write
+begin read from 
+Tree size is: 3
+begin write
+begin read from 
+Tree height is: 2
+begin write
+begin read from 
+GetKeys
+begin write
+begin read from 
+GetValues
+begin write
+begin read from 
+Get: a
+begin write
+begin read from 
+Get: c
+begin write
+begin read from 
+Put: a
+Tree size: 3
+begin write
+begin read from 
+Put: b
+Tree size: 3
+begin write
+begin read from 
+Put: c
+Tree size: 3
+begin write
+begin read from 
+Tree size is: 3
+begin write
+begin read from 
+Tree height is: 2
+begin write
+begin read from 
+GetKeys
+begin write
+begin read from 
+GetValues
+begin write
+begin read from 
+Deleting: b
+begin write
+begin read from 
+Tree size is: 2
+begin write
+begin read from 
+Tree height is: 1
+begin write
+begin read from 
+GetKeys
+begin write
+begin read from 
+GetValues
+begin write
+begin read from 
+Get: a
+begin write
+begin read from 
+Get: c
+begin write
+begin read from 
+Get: b
+Error in invoke!begin write
+begin read from 
+Error reading size of message. source/network_server.c 229
+closing client socket por não ter enviado nada ou  mensagem inválida
+FIM!
+
